@@ -16,6 +16,11 @@ List the additional dataset(s) you want to use (if any), and some ideas on how y
 
 ## Milestones
 A list of internal milestones up until project Milestone 3.
+- ...
+- 12 Nov: homework 2 released
+- 26 Nov: homework 2 deadline
+- 12 Nov: milestone P2 deadline
+- 17 Dec: milestone P3 deadline  
 
 ## Questions for TAs
 Add here any questions you have for us related to the proposed project.
