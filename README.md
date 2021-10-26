@@ -1,7 +1,7 @@
-## (Title)
-ada-2021-project-quotebankers created by GitHub Classroom
+# Project title
+Project title
 
-## (Abstract)
+## Abstract
 A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
 
 ## Research questions
