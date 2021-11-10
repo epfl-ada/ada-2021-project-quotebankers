@@ -1,5 +1,21 @@
-# Who has a voice in the media? 
-What type of people has a voice in the media, what do they need to say and how do they need to say it?
+
+
+# Who has a voice in the media? <!-- omit in toc --> 
+What kind of people has a voice in the media? What do they need to talk about and how do they need to express themselves? A datastory that aims to draw the typical profile of individuals quoted in the media.
+
+<p align="center">
+  <img src="wordcloud-10k-black.png" alt="wordcloud" width="650">
+  <em>Most frequent words in 2020 quotations (random sample size 10'000)</em>
+</p>
+
+## Table of Contents <!-- omit in toc -->
+- [Abstract](#abstract)
+- [Research questions](#research-questions)
+- [Additional datasets](#additional-datasets)
+- [Methods](#methods)
+- [Timeline](#timeline)
+- [Milestones](#milestones)
+- [Questions for TAs](#questions-for-tas)
 
 ## Abstract
 A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
