@@ -6,7 +6,7 @@ What kind of people has a voice in the media? What do they need to talk about an
 <p align="center">
   <img src="wordcloud-speakers.png" alt="wordcloud" width="650">
   <br>
-  <em>Most frequent words in 2020 quotations (random sample size 10'000)</em>
+  <em>Most frequent speakers in 2020 quotations (random sample size: 1'000'0000)</em>
 </p>
 
 ## Table of Contents <!-- omit in toc -->
