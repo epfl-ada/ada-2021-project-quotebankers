@@ -4,9 +4,9 @@
 What kind of people has a voice in the media? What do they need to talk about and how do they need to express themselves? A datastory that aims to draw the typical profile of individuals quoted in the media.
 
 <p align="center">
-  <img src="wordcloud-10k-black.png" alt="wordcloud" width="650">
+  <img src="wordcloud-speakers.png" alt="wordcloud" width="650">
   <br>
-  <em>Most frequent words in 2020 quotations (random sample size 10'000)</em>
+  <em>Most frequent speakers in 2020 quotations (random sample size: 1'000'0000)</em>
 </p>
 
 ## Table of Contents <!-- omit in toc -->
