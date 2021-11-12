@@ -30,7 +30,7 @@ Starting from the 2015-2020 Quotebank dataset, which precisely gathers speaker-a
 A list of research questions you would like to address during the project.
 - What kind of people has a voice in the media? We will consider socio-economic characteristics such as occupation, gender, age, ethnicity, etc. This question is investigated in the notebook [initial_analysis.ipynb](initial_analysis.ipynb).
 - What do they need to talk about (in order to be quoted)? More precisely, investigate the answer to this question as a function of speaker's profile (e.g. quotation topics for different occupation, gender etc.). This part will involve text classification and is tackled in the notebook [what.ipynb](what.ipynb).
-- How do they need to say it?
+- How do they need to say it? More precisely, investigate the emotion carried in the quotes, and determine if one emotion is more use than an other in the corpus. This part will evolve emotion classification and emotion analysis, and is tacklend in [this notebook](find_emotions.ipynb).
 - How does the answer to the previous questions changed over time?
 
 ## Additional datasets
