@@ -38,9 +38,9 @@ A list of research questions you would like to address during the project.
 
 
 ## Methods
-
-- __Text classification__ for answering the "what". More precisely, our project requires to be able to automatically find quotations' topics: for example among {politics, U.S., world, economy, business, sport, science, technology, culture}. The approach used is called "zero-shot text classification" and is described in the notebook [what.ipynb](what.ipynb).
-- __Sentiment analysis__
+* __Text classification__ for answering the "What ? ". More precisely, our project requires to be able to automatically find quotations' topics: for example among {politics, U.S., world, economy, business, sport, science, technology, culture}. The approach used is called "zero-shot text classification" and is described in [this notebook](find_topics_100k.ipynb).
+* __Sentiment analysis__ for answering the "How ? ". Thie part tries to encapsulate *how* the message in the quote is conveyed, from an emotional perspective. The analysis of the emotion displayed in the quotes can take several forms, from sentiment analysis to emotion classification.Three different approaches were tried each on a 100 000 values sample of the 2020 cleaned quote dataset.
+-  First comes sentiment analysis, using the [VADER](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf) sentiment analysis tool. Using it on the 2020 cleaned dataset, one can get a polarity and a compound value for each quote representing the sentiment of the quote, ranging from -1 to 1, -1 representing purely negative quote and 1 representing a positive quote. This method is e
 
 ## Timeline
 - ...
