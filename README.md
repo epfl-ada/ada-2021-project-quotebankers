@@ -45,16 +45,23 @@ A list of research questions you would like to address during the project.
   -  The kept emotion classification method is the zero-shot classification using the [Hugging-Face](https://huggingface.co/) framework that is also used  in the topic classification part of the project. This method is easily scalable as 100 000 quotes were classified in less than 10 minutes, and seem to yield acceptable results. The emotion categories chosen were angry, joy, sad, fear, calm and neutral, according to the [Russel model](https://www.sciencedirect.com/science/article/pii/009265667790037X) of emotion.
 
 ## Timeline
-- ...
-- 12 Nov: homework 2 released
-- 26 Nov: homework 2 deadline
-- 12 Nov: milestone P2 deadline
-- 17 Dec: milestone P3 deadline  
+- 12 Nov: hand-in of Milestone 2 and Homework 2 released;
+- 26 Nov: Homework 2 deadline;
+- 3 Dec: the planned data analysis proposed in the Conclusions of [initial_analysis.ipynb](initial_analysis.ipynb) is finished;
+- 5 Dec: a specific aspect is found and run through the "what" and "how" pipelines;
+- 9 Dec: the merging of the "what" and the "how" with the rest of the data analysis is implemented on the final notebook;
+- 10 Dec: start writing the datastory and the website where it will be hosted;
+- 14 Dec: the datastory is finalized and hosted, final fine-tuning of README and final notebook is done;
+- 17 Dec: Milestone 3 deadline  
 
 ## Milestones
-A list of internal milestones up until project Milestone 3.
-- ...
-
+A list of internal milestones up until project Milestone 3;
+- finalize planned data analysis proposed in the Conclusions of [initial_analysis.ipynb](initial_analysis.ipynb)
+- find specific aspect of data to be studied for the datastory;
+- run the networks to find the "what" and "how" of the quotes in the reduced dataset that is being analyzed for the datastory;
+- merge the "what" and "how" in the final analysis;
+- write the datastory and host it;
+- update README;
 
 ## Questions for TAs
-Add here any questions you have for us related to the proposed project.
+No questions for the moment, Marija has been helping us continuosly through Zulip!
