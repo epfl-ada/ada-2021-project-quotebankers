@@ -30,7 +30,7 @@ Starting from the 2015-2020 Quotebank dataset, which precisely gathers speaker-a
 A list of research questions you would like to address during the project.
 - What kind of people has a voice in the media? We will consider socio-economic characteristics such as occupation, gender, age, ethnicity, etc. This question is investigated in the notebook [initial_analysis.ipynb](initial_analysis.ipynb).
 - What do they need to talk about (in order to be quoted)? More precisely, investigate the answer to this question as a function of speaker's profile (e.g. quotation topics for different occupation, gender etc.). This part will involve text classification and is tackled in the notebook [what.ipynb](what.ipynb).
-- How do they need to say it? More precisely, investigate the emotion carried in the quotes, and determine if one emotion is more use than an other in the corpus. This part will evolve emotion classification and emotion analysis, and is tacklend in [this notebook](find_emotions.ipynb).
+- How do they need to say it? More precisely, investigate the emotion carried in the quotes, and determine if one emotion is more use than an other in the corpus. This part will evolve emotion classification and emotion analysis, and is tacklend in the notebook [find_emotions.ipynb](find_emotions.ipynb).
 - How does the answer to the previous questions changed over time?
 
 ## Additional datasets
@@ -45,6 +45,7 @@ A list of research questions you would like to address during the project.
   -  The kept emotion classification method is the zero-shot classification using the [Hugging-Face](https://huggingface.co/) framework that is also used  in the topic classification part of the project. This method is easily scalable as 100 000 quotes were classified in less than 10 minutes, and seem to yield acceptable results. The emotion categories chosen were angry, joy, sad, fear, calm and neutral, according to the [Russel model](https://www.sciencedirect.com/science/article/pii/009265667790037X) of emotion.
 
 ## Timeline
+Here is the proposed timeline up until Milestone 3:
 - 12 Nov: hand-in of Milestone 2 and Homework 2 released;
 - 26 Nov: Homework 2 deadline;
 - 3 Dec: the planned data analysis proposed in the Conclusions of [initial_analysis.ipynb](initial_analysis.ipynb) is finished;
@@ -52,16 +53,16 @@ A list of research questions you would like to address during the project.
 - 9 Dec: the merging of the "what" and the "how" with the rest of the data analysis is implemented on the final notebook;
 - 10 Dec: start writing the datastory and the website where it will be hosted;
 - 14 Dec: the datastory is finalized and hosted, final fine-tuning of README and final notebook is done;
-- 17 Dec: Milestone 3 deadline  
+- 17 Dec: Milestone 3 deadline.
 
 ## Milestones
-A list of internal milestones up until project Milestone 3;
+Here are the milestones for Milestone 3:
 - finalize planned data analysis proposed in the Conclusions of [initial_analysis.ipynb](initial_analysis.ipynb)
 - find specific aspect of data to be studied for the datastory;
 - run the networks to find the "what" and "how" of the quotes in the reduced dataset that is being analyzed for the datastory;
 - merge the "what" and "how" in the final analysis;
 - write the datastory and host it;
-- update README;
+- update README.
 
 ## Questions for TAs
 No questions for the moment, Marija has been helping us continuosly through Zulip!
