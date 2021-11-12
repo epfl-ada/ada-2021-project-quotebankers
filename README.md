@@ -21,7 +21,7 @@ What kind of people has a voice in the media? What do they need to talk about an
   
 
 ## Abstract
-What a pleasure it is to be listened to… The ability to make your voice heard is a privilege that few can afford. Sometimes you can have the feeling that only the loudest are listened to.
+What a pleasure it is to be listened to… The ability to make your voice heard is a privilege that few can afford. Sometimes you can have the feeling that only the loudest are listened to.  
 Starting from the 2015-2020 Quotebank dataset, which precisely gathers speaker-attributed quotations from various web domains, we will tackle the following question: who has a voice in the media? This project has the ambitious aim to identify key attributes that will make a speech quoted and spread out. First, by gathering insights about speakers, with the use of wikidata: gender, age, occupation, ethnicity, etc. Second, by considering the quotation in itself and extract the subjects tackled, as well as the sentiments associated with the speech. From our datastory, we will be able to understand why an individual is more quoted than another, and anyone will have the keys to maximize its odds to be quoted in a famous english-speaking media.
 
 
