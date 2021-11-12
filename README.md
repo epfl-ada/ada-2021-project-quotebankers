@@ -34,6 +34,7 @@ A list of research questions you would like to address during the project.
 - How does the answer to the previous questions changed over time?
 
 ## Additional datasets
+-  __Metadata about speakers__: The metadata about the speakers provided in the course's Drive is used in the notebook [initial_analysis.ipynb](initial_analysis.ipynb) to get the attributes about the quoted speakers.
 - __Language model for text classification and sentiment analysis__: <br> We will be using the following fine-tuned model, appropriate for the task of zero-shot text classification: DistilBERT base model uncased ([see there](https://huggingface.co/typeform/distilbert-base-uncased-mnli)). This model is fine-tuned on Multi-Genre Natural Language Inference (MNLI) dataset for the zero-shot classification task.
 
 
