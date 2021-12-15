@@ -65,5 +65,7 @@ Here are the milestones for Milestone 3:
 - write the datastory and host it;
 - update README.
 
-## Questions for TAs
-No questions for the moment, Marija has been helping us continuosly through Zulip!
+## TODO (non-prioritized)
+- [ ] Add background music
+- [ ] Change initial image to image with all names
+- [ ] Add weird arrow above section "Our team"
