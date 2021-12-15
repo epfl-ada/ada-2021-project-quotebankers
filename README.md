@@ -68,3 +68,4 @@ Here are the milestones for Milestone 3:
 ## TODO (non-prioritized)
 - [ ] Add background music
 - [ ] Change initial image to image with all names
+- [ ] Add weird arrow above section "Our team"
