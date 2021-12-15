@@ -66,5 +66,5 @@ Here are the milestones for Milestone 3:
 - update README.
 
 ## TODO (non-prioritized)
-- [] Add background music
-- [] Change initial image to image with all names
+- [ ] Add background music
+- [ ] Change initial image to image with all names
