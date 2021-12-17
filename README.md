@@ -76,3 +76,4 @@ Here are the milestones for Milestone 3:
 - [ ] Add age + occupation to website (Benjamin)
 - [ ] Add clustering to website (Matheus)
 - [ ] Add button to link to web-app
+- [ ] Remove plotly bar from plots
