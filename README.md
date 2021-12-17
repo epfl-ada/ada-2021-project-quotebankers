@@ -18,6 +18,12 @@ Everyone worked on the website.
 - Matheus: Pre-processing, Clustering part, Who pipeline, plots
 - Eliott: What pipeline (topic classification), plots, setting up the website
 
+<p align="center">
+  <img src="us.jpg" alt="wordcloud" width="650">
+  <br>
+  <em>The QuoteBankers 1 hour before the deadline</em>
+</p>
+
 # Who has a voice in the media? <!-- omit in toc --> 
 
 What kind of people has a voice in the media? What do they need to talk about and how do they need to express themselves? A datastory that aims to draw the typical profile of individuals quoted in the media.
