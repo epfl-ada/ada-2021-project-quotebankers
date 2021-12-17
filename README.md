@@ -3,7 +3,7 @@
 - __Link to the website__: <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
 - __The following UI__ is also part of the final submission: [quotebankers.netlify.app/](https://quotebankers.netlify.app/)
 - __Linktree__ for the UI implementation: 
-- __Supporting notebooks__ (to be graded):
+- __Supporting notebooks__ (to be graded): [linktr.ee/QuoteBankers](https://linktr.ee/QuoteBankers)
   - How we preprocessed the Quotebank dataset: [Preprocessing.ipynb](Preprocessing.ipynb)
   - How we performed clustering on speakers: [Clustering.ipynb](clustering.ipynb)
   - How we investigated the speakers attributes: [Who.ipynb](who.ipynb)
