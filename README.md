@@ -77,3 +77,5 @@ Here are the milestones for Milestone 3:
 - [ ] Add clustering to website (Matheus)
 - [ ] Add button to link to web-app
 - [ ] Remove plotly bar from plots
+- [ ] reduce img size 
+- [ ] change beginning text by "how to be ON the radar"
