@@ -3,10 +3,7 @@
 # Who has a voice in the media? <!-- omit in toc --> 
 
 <p align="center">
-  <strong> Link to the website:</strong>
-  <br>
-  <p> Link to the website:</p>
-  <em>Most frequent speakers in 2020 quotations (random sample size: 1'000'0000)</em>
+  <strong> Link to the website:</strong> <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
 </p>
 
 What kind of people has a voice in the media? What do they need to talk about and how do they need to express themselves? A datastory that aims to draw the typical profile of individuals quoted in the media.
