@@ -1,8 +1,15 @@
 # M3 submission <!-- omit in toc -->
 
 - __Link to the website__: <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
+- __The following UI__ is also part of the final submission: [quotebankers.netlify.app/](https://quotebankers.netlify.app/)
+- __Linktree__ for the UI implementation: 
 - __Supporting notebooks__ (to be graded):
--   [initial_analysis.ipynb](initial_analysis.ipynb)
+  - How we preprocessed the Quotebank dataset: [Preprocessing.ipynb](Preprocessing.ipynb)
+  - How we performed clustering on speakers: [Clustering.ipynb](clustering.ipynb)
+  - How we investigated the speakers attributes: [Who.ipynb](who.ipynb)
+  - How we performed topic classification: [What.ipynb](what.ipynb)
+  - How we performed emotion analysis: [How.ipynb](how.ipynb)
+  - How we trained a model to output the speaker's score in the UI: [n_quotes_prediction.ipynb](n_quotes_prediction.ipynb)
 
 # Who has a voice in the media? <!-- omit in toc --> 
 
