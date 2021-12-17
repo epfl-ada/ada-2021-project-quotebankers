@@ -11,6 +11,13 @@
   - How we performed emotion analysis: [How.ipynb](how.ipynb)
   - How we trained a model to output the speaker's score in the UI: [n_quotes_prediction.ipynb](n_quotes_prediction.ipynb)
 
+__Contributions__:  
+Everyone worked on the website.
+- Benjamin: Dataset pre-processing, supervised learning for score prediction, website structuring
+- Thomas: Emotion classification, web app interface, API, 
+- Matheus: Pre-processing, Clustering part, Who pipeline, plots
+- Eliott: What pipeline (topic classification), plots, setting up the website
+
 # Who has a voice in the media? <!-- omit in toc --> 
 
 What kind of people has a voice in the media? What do they need to talk about and how do they need to express themselves? A datastory that aims to draw the typical profile of individuals quoted in the media.
