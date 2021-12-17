@@ -85,6 +85,8 @@ Here are the milestones for Milestone 3:
 - write the datastory and host it;
 - update README.
 
+--
+
 <p align="center">
   <img src="us.jpeg" alt="a" width="650">
   <br>
