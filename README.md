@@ -19,7 +19,7 @@ Everyone worked on the website.
 - Eliott: What pipeline (topic classification), plots, setting up the website
 
 <p align="center">
-  <img src="us.jpg" alt="a" width="650">
+  <img src="us.jpeg" alt="a" width="650">
   <br>
   <em>The QuoteBankers 1 hour before the deadline</em>
 </p>
