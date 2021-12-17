@@ -18,11 +18,6 @@ Everyone worked on the website.
 - Matheus: Pre-processing, Clustering part, Who pipeline, plots
 - Eliott: What pipeline (topic classification), plots, setting up the website
 
-<p align="center">
-  <img src="us.jpeg" alt="a" width="650">
-  <br>
-  <em>The QuoteBankers 1 hour before the deadline</em>
-</p>
 
 # Who has a voice in the media? <!-- omit in toc --> 
 
@@ -90,17 +85,8 @@ Here are the milestones for Milestone 3:
 - write the datastory and host it;
 - update README.
 
-## TODO (non-prioritized)
-- [ ] Add background music to web-app (Thomas)
-- [ ] Update image with all names (Eliott)
-- [x] Remove weird arrow above section "Our team"
-- [x] Add top 10 occupations accross all genders in point 3 under WHO 
-- [x] Do new plot of quotations per speakers using updated frame with column 'label' with line instead of bar plot (Matheus)
-- [ ] Change tab icon
-- [x] Center occupations plot (Eliott)
-- [ ] Add age + occupation to website (Benjamin)
-- [ ] Add clustering to website (Matheus)
-- [ ] Add button to link to web-app
-- [ ] Remove plotly bar from plots
-- [ ] reduce img size 
-- [ ] change beginning text by "how to be ON the radar"
+<p align="center">
+  <img src="us.jpeg" alt="a" width="650">
+  <br>
+  <em>The QuoteBankers 1 hour before the deadline</em>
+</p>  
