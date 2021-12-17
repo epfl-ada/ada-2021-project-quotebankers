@@ -66,7 +66,7 @@ Here are the milestones for Milestone 3:
 - update README.
 
 ## TODO (non-prioritized)
-- [ ] Add background music
+- [ ] Add background music to web-app (Thomas)
 - [ ] Update image with all names (Eliott)
 - [x] Remove weird arrow above section "Our team"
 - [x] Add top 10 occupations accross all genders in point 3 under WHO 
@@ -75,3 +75,4 @@ Here are the milestones for Milestone 3:
 - [x] Center occupations plot (Eliott)
 - [ ] Add age + occupation to website (Benjamin)
 - [ ] Add clustering to website (Matheus)
+- [ ] Add button to link to web-app
