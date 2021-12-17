@@ -67,6 +67,9 @@ Here are the milestones for Milestone 3:
 
 ## TODO (non-prioritized)
 - [ ] Add background music
-- [ ] Change initial image to image with all names
-- [ ] Remove weird arrow above section "Our team"
-- [ ] Add top 10 occupations accross all genders in point 3 under WHO
+- [ ] Update image with all names (Eliott)
+- [x] Remove weird arrow above section "Our team"
+- [x] Add top 10 occupations accross all genders in point 3 under WHO 
+- [ ] Do new plot of quotations per speakers using updated frame with column 'label' with line instead of bar plot (Matheus)
+- [ ] Change tab icon
+- [ ] Center occupations plot (Eliott)
