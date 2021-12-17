@@ -70,6 +70,8 @@ Here are the milestones for Milestone 3:
 - [ ] Update image with all names (Eliott)
 - [x] Remove weird arrow above section "Our team"
 - [x] Add top 10 occupations accross all genders in point 3 under WHO 
-- [ ] Do new plot of quotations per speakers using updated frame with column 'label' with line instead of bar plot (Matheus)
+- [x] Do new plot of quotations per speakers using updated frame with column 'label' with line instead of bar plot (Matheus)
 - [ ] Change tab icon
-- [ ] Center occupations plot (Eliott)
+- [x] Center occupations plot (Eliott)
+- [ ] Add age + occupation to website (Benjamin)
+- [ ] Add clustering to website (Matheus)
