@@ -1,8 +1,7 @@
 # M3 submission <!-- omit in toc -->
 
-<p align="center">
-  <strong> Link to the website:</strong> <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
-</p>
+- __Link to the website__: <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
+- __Supporting notebook__ (to be graded): [initial_analysis.ipynb](initial_analysis.ipynb)
 
 # Who has a voice in the media? <!-- omit in toc --> 
 
