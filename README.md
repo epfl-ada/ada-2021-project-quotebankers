@@ -1,10 +1,10 @@
-
-
-# Who has a voice in the media? <!-- omit in toc --> 
+# M3 submission <!-- omit in toc -->
 
 <p align="center">
   <strong> Link to the website:</strong> <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
 </p>
+
+# Who has a voice in the media? <!-- omit in toc --> 
 
 What kind of people has a voice in the media? What do they need to talk about and how do they need to express themselves? A datastory that aims to draw the typical profile of individuals quoted in the media.
 
