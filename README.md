@@ -1,7 +1,7 @@
 # M3 submission <!-- omit in toc -->
 
 - __Link to the website__: <a href="https://quotebankers.github.io/">quotebankers.github.io/</a>
-- __The following UI__ is also part of the final submission: [quotebankers.netlify.app/](https://quotebankers.netlify.app/)
+- __The following UI__ is also part of the final submission (please go through it first): [quotebankers.netlify.app/](https://quotebankers.netlify.app/)
 - __Linktree__ for the UI implementation: [linktr.ee/QuoteBankers](https://linktr.ee/QuoteBankers)
 - __Supporting notebooks__ (to be graded): 
   - How we preprocessed the Quotebank dataset: [Preprocessing.ipynb](Preprocessing.ipynb)
